@@ -68,12 +68,13 @@ The dataset was provided as part of the Forage job simulation and contains passe
 ---
 
 ## 📁 Repository Structure
+```bash
 ├── british_airways_purchase_prediction.ipynb
 ├── british_airways_passenger_data.xlsx
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-
+```
 
 ## 🚀 How to Run
 1. Install dependencies: pip install -r requirements.txt
@@ -95,4 +96,5 @@ This project was completed as part of the **British Airways Data Science Job Sim
 ## 👤 Author
 Tarun Kumar Rai
 ---
+
 
